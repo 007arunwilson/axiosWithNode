@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/007arunwilson/axiosWithNode/issues"
   },
-  "homepage": "https://github.com/007arunwilson/axiosWithNode#readme"
+  "homepage": "https://github.com/007arunwilson/axiosWithNode#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
