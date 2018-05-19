@@ -1,0 +1,24 @@
+{
+  "name": "axioswithnode",
+  "version": "1.0.0",
+  "description": "A Sample Code snippet to experiment axios with node Js;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/007arunwilson/axiosWithNode.git"
+  },
+  "keywords": [
+    "axios",
+    "Node",
+    "Javascript"
+  ],
+  "author": "cyberinfoscripter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/007arunwilson/axiosWithNode/issues"
+  },
+  "homepage": "https://github.com/007arunwilson/axiosWithNode#readme"
+}
